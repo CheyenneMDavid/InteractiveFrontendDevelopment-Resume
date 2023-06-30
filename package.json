@@ -1,0 +1,28 @@
+{
+  "name": "interactivefrontenddevelopment-resume",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheyenneMDavid/InteractiveFrontendDevelopment-Resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CheyenneMDavid/InteractiveFrontendDevelopment-Resume/issues"
+  },
+  "homepage": "https://github.com/CheyenneMDavid/InteractiveFrontendDevelopment-Resume#readme",
+  "devDependencies": {
+    "eslint": "^8.43.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.8"
+  }
+}
