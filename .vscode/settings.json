@@ -26,5 +26,8 @@
   "editor.defaultFormatter": "HookyQR.beautify",
   "[html]": {
     "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }
