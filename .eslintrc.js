@@ -10,4 +10,13 @@ module.exports = {
   },
   plugins: ['prettier'],
   rules: {},
+  // extends: ['plugin:prettier/recommended'],
+  // parserOptions: {
+  //   ecmaVersion: 2021,
+  //   sourceType: 'module',
+  // },
+  // plugins: ['prettier'],
+  // rules: {
+  //   'prettier/prettier': 'error',
+  // },
 };
