@@ -21,7 +21,7 @@
     "**/CVS": true
   },
   "files.autoSave": "off",
-  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.colorTheme": "Gitpod Dark",
   "terminal.integrated.gpuAcceleration": "canvas",
   "editor.defaultFormatter": "HookyQR.beautify",
   "[html]": {
@@ -29,5 +29,8 @@
   },
   "[javascript]": {
     "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
   }
 }
